@@ -37,7 +37,7 @@ implementation 'com.github.vertical-blank:sql-formatter:2.0.5'
 
 ## Examples
 
-You can easily use `com.github.vertical_blank.sqlformatter.SqlFormatter` :
+You can easily use `com.rem40.database.sqlformatter.SqlFormatter` :
 
 ```java
 SqlFormatter.format("SELECT * FROM table1")
@@ -68,7 +68,7 @@ SqlFormatter.format('SELECT * FROM tbl',
 
 ### Dialect
 
-You can pass dialect `com.github.vertical_blank.sqlformatter.languages.Dialect` or `String` to `SqlFormatter.of` :
+You can pass dialect `languages.com.rem40.database.sqlformatter.Dialect` or `String` to `SqlFormatter.of` :
 
 ```java
 SqlFormatter
