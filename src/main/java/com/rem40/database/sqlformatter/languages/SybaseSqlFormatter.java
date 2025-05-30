@@ -1,6 +1,5 @@
 package com.rem40.database.sqlformatter.languages;
 
-import com.github.vertical_blank.sqlformatter.core.*;
 import com.rem40.database.sqlformatter.core.*;
 
 import java.util.*;

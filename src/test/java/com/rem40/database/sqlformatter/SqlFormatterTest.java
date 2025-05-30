@@ -2,7 +2,6 @@ package com.rem40.database.sqlformatter;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.github.vertical_blank.sqlformatter.core.*;
 import com.rem40.database.sqlformatter.core.*;
 import com.rem40.database.sqlformatter.languages.Dialect;
 import java.util.Arrays;

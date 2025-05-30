@@ -3,7 +3,6 @@ package com.rem40.database.sqlformatter;
 import com.rem40.database.sqlformatter.core.AbstractFormatter;
 import com.rem40.database.sqlformatter.core.DialectConfig;
 import com.rem40.database.sqlformatter.core.FormatConfig;
-import com.github.vertical_blank.sqlformatter.languages.*;
 import com.rem40.database.sqlformatter.languages.*;
 
 import java.util.List;
